@@ -58,3 +58,6 @@ apiKey, roomID, startsAt (optional, messageID)
 Response keys:
 responseStatus, responseText, messages
 
+Description:
+Retrieves the last 100 messages in a room, or the previous 100 given a messageID.
+
